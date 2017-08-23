@@ -1,0 +1,19 @@
+{
+  "name": "nodejs",
+  "description": "Node.js summer school",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/yeromin",
+    "type": "git"
+  },
+  "author": "Dima Yeromin",
+  "homepage": "https://github.com/yeromin",
+  "license": "MIT",
+  "dependencies": {
+    "metasync": "^0.3.8"
+  },
+  "devDependencies": {
+    "eslint": "^4.5.0"
+  }
+}
