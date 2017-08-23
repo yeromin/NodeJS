@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "main": "index.js",
   "repository": {
-    "url": "https://github.com/yeromin",
+    "url": "git@github.com:yeromin/NodeJS.git",
     "type": "git"
   },
   "author": "Dima Yeromin",
